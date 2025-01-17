@@ -1,0 +1,5 @@
+G00 X1 (Rapid Movement)
+G01 X2 F3 (Feed Movement)
+M00 (Program Stop)
+M01 (Optional Stop)
+M30 (End of Program)

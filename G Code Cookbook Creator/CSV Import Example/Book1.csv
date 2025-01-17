@@ -1,0 +1,5 @@
+G00,10,,Rapid
+G01,11,2,Feed
+M00,,,Program Stop
+M01,,,Optional Stop
+M30 ,,,End of program
